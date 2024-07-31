@@ -1,4 +1,4 @@
-```markdown
+
 # Insights Meeting
 
 Este é um projeto simples desenvolvido em Java utilizando Spring Boot, com o objetivo de gerar insights a partir de transcrições de reuniões de refinamento técnico ou funcional. O projeto utiliza a API do ChatGPT para processar o texto da transcrição e extrair informações valiosas, como decisões tomadas, próximos passos e riscos identificados.
